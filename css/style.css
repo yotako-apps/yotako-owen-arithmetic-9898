@@ -1,0 +1,852 @@
+@media (max-width:768px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 375px
+  }
+  .newmockup1row0 {
+    display: flex;
+    margin-left: 2px;
+    margin-top: 5px;
+    width: 372px;
+    height: 686px
+  }
+  .style0 {
+    margin-left: 0;
+    width: 34px;
+    height: 29px
+  }
+  .newmockup1row0column0 {
+    position: relative;
+    display: flex;
+    margin-left: 0;
+    width: 36px;
+    height: 429px;
+    flex-direction: column
+  }
+  .newmockup1row0column0unsupported1,
+  .style15 {
+    margin-left: 5px;
+    margin-top: 33px;
+    width: 23px;
+    height: 23px;
+    flex-shrink: 0
+  }
+  .style15 {
+    position: relative;
+    margin-top: 336px;
+    width: 36px;
+    height: 37px
+  }
+  .newmockup1row0column1 {
+    position: relative;
+    display: flex;
+    margin-left: 0;
+    margin-top: 5px;
+    width: 328px;
+    height: 618px;
+    flex-direction: column
+  }
+  .style1 {
+    background-color: #fff;
+    border-left: 2px solid #000;
+    border-right: 2px solid #000;
+    border-top: 2px solid #000;
+    border-bottom: 2px solid #000;
+    font-family: BalsamiqSans,serif;
+    font-size: .37109375em;
+    text-indent: 11px;
+    position: relative;
+    margin-left: 270px;
+    margin-top: 0;
+    width: 83px;
+    height: 12px;
+    flex-shrink: 0
+  }
+  .newmockup1row0column1unsupported0 {
+    position: relative;
+    margin-left: 29px;
+    margin-top: 16px;
+    width: 328px;
+    height: 23px;
+    flex-shrink: 0
+  }
+  .newmockup1row0column1row2 {
+    display: flex;
+    margin-left: 112px;
+    margin-top: 8px;
+    width: 245px;
+    height: 89px;
+    align-items: stretch;
+    flex-shrink: 0
+  }
+  .style3 {
+    margin-left: 0;
+    width: 104px
+  }
+  .newmockup1row0column1row2column1 {
+    display: flex;
+    margin-left: 48px;
+    width: 26px;
+    align-items: stretch;
+    flex-direction: column
+  }
+  .style4 {
+    margin-top: 0;
+    height: 24px
+  }
+  .style6 {
+    margin-top: 3px;
+    height: 61px
+  }
+  .newmockup1row0column1row2column2 {
+    display: flex;
+    margin-left: 5px;
+    width: 62px;
+    align-items: stretch;
+    flex-direction: column
+  }
+  .style5 {
+    margin-top: 0;
+    height: 23px
+  }
+  .newmockup1row0column1row2column2row1 {
+    display: flex;
+    margin-top: 3px;
+    height: 28px;
+    align-items: stretch
+  }
+  .style7 {
+    margin-left: 0;
+    width: 46px
+  }
+  .style8 {
+    margin-left: 3px;
+    width: 13px
+  }
+  .newmockup1row0column1row2column2row2 {
+    display: flex;
+    margin-top: 5px;
+    height: 29px;
+    align-items: stretch
+  }
+  .style9 {
+    margin-left: 0;
+    width: 14px
+  }
+  .style10 {
+    margin-left: 2px;
+    width: 46px
+  }
+  .style11 {
+    background-color: #fff;
+    border-left: 2px solid #000;
+    border-right: 2px solid #000;
+    border-top: 2px solid #000;
+    border-bottom: 2px solid #000;
+    font-family: BalsamiqSans,serif;
+    font-size: .37109375em;
+    text-indent: 5px;
+    margin-top: 13px;
+    width: 213px;
+    height: 20px;
+    flex-shrink: 0
+  }
+  .newmockup1row0column1row4 {
+    display: flex;
+    margin-top: 12px;
+    width: 213px;
+    height: 54px;
+    align-items: stretch;
+    flex-shrink: 0
+  }
+  .style13 {
+    margin-left: 0;
+    width: 94px
+  }
+  .style14 {
+    margin-left: 22px;
+    width: 97px
+  }
+  .newmockup1row0column1row5 {
+    display: flex;
+    margin-top: 43px;
+    width: 214px;
+    height: 52px;
+    align-items: stretch;
+    flex-shrink: 0
+  }
+  .style17 {
+    margin-left: 0;
+    width: 97px
+  }
+  .style16 {
+    margin-left: 19px;
+    width: 98px
+  }
+  .newmockup1row0column1row6 {
+    display: flex;
+    margin-left: 8px;
+    margin-top: 228px;
+    width: 342px;
+    height: 48px;
+    align-items: stretch;
+    flex-shrink: 0;
+    justify-content: space-between
+  }
+  .style21 {
+    width: 80px
+  }
+  .style20 {
+    width: 82px
+  }
+  .style18,
+  .style19 {
+    width: 79px
+  }
+  .newmockup1row0unsupported2 {
+    margin-left: 32px;
+    margin-top: 3px;
+    width: 8px;
+    height: 686px
+  }
+}
+@media (min-width:768px) and (max-width:920px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 768px
+  }
+  .newmockup1row0 {
+    display: flex;
+    margin-left: 3px;
+    margin-top: 11px;
+    width: 761px;
+    height: 1405px
+  }
+  .style0 {
+    margin-left: 0;
+    width: 70px;
+    height: 59px
+  }
+  .newmockup1row0column0 {
+    position: relative;
+    display: flex;
+    margin-left: 0;
+    width: 74px;
+    height: 878px;
+    flex-direction: column
+  }
+  .newmockup1row0column0unsupported1,
+  .style15 {
+    margin-left: 10px;
+    margin-top: 68px;
+    width: 46px;
+    height: 46px;
+    flex-shrink: 0
+  }
+  .style15 {
+    position: relative;
+    margin-top: 688px;
+    width: 74px;
+    height: 76px
+  }
+  .newmockup1row0column1 {
+    position: relative;
+    display: flex;
+    margin-left: 0;
+    margin-top: 11px;
+    width: 671px;
+    height: 1265px;
+    flex-direction: column
+  }
+  .style1 {
+    background-color: #fff;
+    border-left: 2px solid #000;
+    border-right: 2px solid #000;
+    border-top: 2px solid #000;
+    border-bottom: 2px solid #000;
+    font-family: BalsamiqSans,serif;
+    font-size: .76em;
+    text-indent: 22px;
+    position: relative;
+    margin-left: 554px;
+    margin-top: 0;
+    width: 171px;
+    height: 24px;
+    flex-shrink: 0
+  }
+  .newmockup1row0column1unsupported0 {
+    position: relative;
+    margin-left: 60px;
+    margin-top: 33px;
+    width: 671px;
+    height: 46px;
+    flex-shrink: 0
+  }
+  .newmockup1row0column1row2 {
+    display: flex;
+    margin-left: 229px;
+    margin-top: 17px;
+    width: 501px;
+    height: 182px;
+    align-items: stretch;
+    flex-shrink: 0
+  }
+  .style3 {
+    margin-left: 0;
+    width: 214px
+  }
+  .newmockup1row0column1row2column1 {
+    display: flex;
+    margin-left: 97px;
+    width: 52px;
+    align-items: stretch;
+    flex-direction: column
+  }
+  .style4 {
+    margin-top: 0;
+    height: 49px
+  }
+  .style6 {
+    margin-top: 6px;
+    height: 125px
+  }
+  .newmockup1row0column1row2column2 {
+    display: flex;
+    margin-left: 11px;
+    width: 127px;
+    align-items: stretch;
+    flex-direction: column
+  }
+  .style5 {
+    margin-top: 0;
+    height: 48px
+  }
+  .newmockup1row0column1row2column2row1 {
+    display: flex;
+    margin-top: 7px;
+    height: 57px;
+    align-items: stretch
+  }
+  .style7 {
+    margin-left: 0;
+    width: 93px
+  }
+  .style8 {
+    margin-left: 7px;
+    width: 27px
+  }
+  .newmockup1row0column1row2column2row2 {
+    display: flex;
+    margin-top: 10px;
+    height: 60px;
+    align-items: stretch
+  }
+  .style9 {
+    margin-left: 0;
+    width: 29px
+  }
+  .style10 {
+    margin-left: 4px;
+    width: 95px
+  }
+  .style11 {
+    background-color: #fff;
+    border-left: 2px solid #000;
+    border-right: 2px solid #000;
+    border-top: 2px solid #000;
+    border-bottom: 2px solid #000;
+    font-family: BalsamiqSans,serif;
+    font-size: .76em;
+    text-indent: 10px;
+    margin-top: 26px;
+    width: 436px;
+    height: 40px;
+    flex-shrink: 0
+  }
+  .newmockup1row0column1row4 {
+    display: flex;
+    margin-top: 25px;
+    width: 436px;
+    height: 111px;
+    align-items: stretch;
+    flex-shrink: 0
+  }
+  .style13 {
+    margin-left: 0;
+    width: 193px
+  }
+  .style14 {
+    margin-left: 44px;
+    width: 199px
+  }
+  .newmockup1row0column1row5 {
+    display: flex;
+    margin-top: 88px;
+    width: 438px;
+    height: 106px;
+    align-items: stretch;
+    flex-shrink: 0
+  }
+  .style17 {
+    margin-left: 0;
+    width: 199px
+  }
+  .style16 {
+    margin-left: 38px;
+    width: 200px
+  }
+  .newmockup1row0column1row6 {
+    display: flex;
+    margin-left: 15px;
+    margin-top: 468px;
+    width: 700px;
+    height: 99px;
+    align-items: stretch;
+    flex-shrink: 0;
+    justify-content: space-between
+  }
+  .style21 {
+    width: 163px
+  }
+  .style20 {
+    width: 168px
+  }
+  .style18,
+  .style19 {
+    width: 163px
+  }
+  .newmockup1row0unsupported2 {
+    margin-left: 66px;
+    margin-top: 6px;
+    width: 15px;
+    height: 1405px
+  }
+}
+@media (min-width:920px) and (max-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 920px
+  }
+  .newmockup1row0 {
+    display: flex;
+    margin-left: 4px;
+    margin-top: 13px;
+    width: 912px;
+    height: 1683px
+  }
+  .style0 {
+    margin-left: 0;
+    width: 84px;
+    height: 71px
+  }
+  .newmockup1row0column0 {
+    position: relative;
+    display: flex;
+    margin-left: 0;
+    width: 89px;
+    height: 1052px;
+    flex-direction: column
+  }
+  .newmockup1row0column0unsupported1,
+  .style15 {
+    margin-left: 12px;
+    margin-top: 81px;
+    width: 55px;
+    height: 55px;
+    flex-shrink: 0
+  }
+  .style15 {
+    position: relative;
+    margin-top: 824px;
+    width: 89px;
+    height: 91px
+  }
+  .newmockup1row0column1 {
+    position: relative;
+    display: flex;
+    margin-left: 0;
+    margin-top: 13px;
+    width: 803px;
+    height: 1515px;
+    flex-direction: column
+  }
+  .style1 {
+    background-color: #fff;
+    border-left: 2px solid #000;
+    border-right: 2px solid #000;
+    border-top: 2px solid #000;
+    border-bottom: 2px solid #000;
+    font-family: BalsamiqSans,serif;
+    font-size: .9104166666666668em;
+    text-indent: 27px;
+    position: relative;
+    margin-left: 663px;
+    margin-top: 0;
+    width: 205px;
+    height: 29px;
+    flex-shrink: 0
+  }
+  .newmockup1row0column1unsupported0 {
+    position: relative;
+    margin-left: 72px;
+    margin-top: 39px;
+    width: 803px;
+    height: 55px;
+    flex-shrink: 0
+  }
+  .newmockup1row0column1row2 {
+    display: flex;
+    margin-left: 274px;
+    margin-top: 20px;
+    width: 600px;
+    height: 219px;
+    align-items: stretch;
+    flex-shrink: 0
+  }
+  .style3 {
+    margin-left: 0;
+    width: 256px
+  }
+  .newmockup1row0column1row2column1 {
+    display: flex;
+    margin-left: 117px;
+    width: 63px;
+    align-items: stretch;
+    flex-direction: column
+  }
+  .style4 {
+    margin-top: 0;
+    height: 59px
+  }
+  .style6 {
+    margin-top: 7px;
+    height: 150px
+  }
+  .newmockup1row0column1row2column2 {
+    display: flex;
+    margin-left: 13px;
+    width: 153px;
+    align-items: stretch;
+    flex-direction: column
+  }
+  .style5 {
+    margin-top: 0;
+    height: 58px
+  }
+  .newmockup1row0column1row2column2row1 {
+    display: flex;
+    margin-top: 8px;
+    height: 68px;
+    align-items: stretch
+  }
+  .style7 {
+    margin-left: 0;
+    width: 112px
+  }
+  .style8 {
+    margin-left: 8px;
+    width: 32px
+  }
+  .newmockup1row0column1row2column2row2 {
+    display: flex;
+    margin-top: 12px;
+    height: 72px;
+    align-items: stretch
+  }
+  .style9 {
+    margin-left: 0;
+    width: 35px
+  }
+  .style10 {
+    margin-left: 5px;
+    width: 113px
+  }
+  .style11 {
+    background-color: #fff;
+    border-left: 2px solid #000;
+    border-right: 2px solid #000;
+    border-top: 2px solid #000;
+    border-bottom: 2px solid #000;
+    font-family: BalsamiqSans,serif;
+    font-size: .9104166666666668em;
+    text-indent: 12px;
+    margin-top: 31px;
+    width: 523px;
+    height: 48px;
+    flex-shrink: 0
+  }
+  .newmockup1row0column1row4 {
+    display: flex;
+    margin-top: 30px;
+    width: 523px;
+    height: 133px;
+    align-items: stretch;
+    flex-shrink: 0
+  }
+  .style13 {
+    margin-left: 0;
+    width: 232px
+  }
+  .style14 {
+    margin-left: 53px;
+    width: 238px
+  }
+  .newmockup1row0column1row5 {
+    display: flex;
+    margin-top: 105px;
+    width: 524px;
+    height: 127px;
+    align-items: stretch;
+    flex-shrink: 0
+  }
+  .style17 {
+    margin-left: 0;
+    width: 238px
+  }
+  .style16 {
+    margin-left: 46px;
+    width: 239px
+  }
+  .newmockup1row0column1row6 {
+    display: flex;
+    margin-left: 18px;
+    margin-top: 560px;
+    width: 839px;
+    height: 118px;
+    align-items: stretch;
+    flex-shrink: 0;
+    justify-content: space-between
+  }
+  .style21 {
+    width: 196px
+  }
+  .style20 {
+    width: 202px
+  }
+  .style18,
+  .style19 {
+    width: 195px
+  }
+  .newmockup1row0unsupported2 {
+    margin-left: 79px;
+    margin-top: 7px;
+    width: 18px;
+    height: 1683px
+  }
+}
+@media (min-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px
+  }
+  .newmockup1row0 {
+    display: flex;
+    margin-left: 5px;
+    margin-top: 17px;
+    width: 1189px;
+    height: 2195px
+  }
+  .style0 {
+    margin-left: 0;
+    width: 109px;
+    height: 92px
+  }
+  .newmockup1row0column0 {
+    position: relative;
+    display: flex;
+    margin-left: 0;
+    width: 116px;
+    height: 1372px;
+    flex-direction: column
+  }
+  .newmockup1row0column0unsupported1,
+  .style15 {
+    margin-left: 15px;
+    margin-top: 106px;
+    width: 72px;
+    height: 72px;
+    flex-shrink: 0
+  }
+  .style15 {
+    position: relative;
+    margin-top: 1075px;
+    width: 116px;
+    height: 119px
+  }
+  .newmockup1row0column1 {
+    position: relative;
+    display: flex;
+    margin-left: 0;
+    margin-top: 17px;
+    width: 1048px;
+    height: 1976px;
+    flex-direction: column
+  }
+  .style1 {
+    background-color: #fff;
+    border-left: 2px solid #000;
+    border-right: 2px solid #000;
+    border-top: 2px solid #000;
+    border-bottom: 2px solid #000;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.1875em;
+    text-indent: 35px;
+    position: relative;
+    margin-left: 865px;
+    margin-top: 0;
+    width: 267px;
+    height: 38px;
+    flex-shrink: 0
+  }
+  .newmockup1row0column1unsupported0 {
+    position: relative;
+    margin-left: 94px;
+    margin-top: 51px;
+    width: 1048px;
+    height: 72px;
+    flex-shrink: 0
+  }
+  .newmockup1row0column1row2 {
+    display: flex;
+    margin-left: 358px;
+    margin-top: 26px;
+    width: 783px;
+    height: 285px;
+    align-items: stretch;
+    flex-shrink: 0
+  }
+  .style3 {
+    margin-left: 0;
+    width: 334px
+  }
+  .newmockup1row0column1row2column1 {
+    display: flex;
+    margin-left: 152px;
+    width: 82px;
+    align-items: stretch;
+    flex-direction: column
+  }
+  .style4 {
+    margin-top: 0;
+    height: 77px
+  }
+  .style6 {
+    margin-top: 9px;
+    height: 195px
+  }
+  .newmockup1row0column1row2column2 {
+    display: flex;
+    margin-left: 17px;
+    width: 199px;
+    align-items: stretch;
+    flex-direction: column
+  }
+  .style5 {
+    margin-top: 0;
+    height: 75px
+  }
+  .newmockup1row0column1row2column2row1 {
+    display: flex;
+    margin-top: 11px;
+    height: 89px;
+    align-items: stretch
+  }
+  .style7 {
+    margin-left: 0;
+    width: 146px
+  }
+  .style8 {
+    margin-left: 11px;
+    width: 42px
+  }
+  .newmockup1row0column1row2column2row2 {
+    display: flex;
+    margin-top: 15px;
+    height: 94px;
+    align-items: stretch
+  }
+  .style9 {
+    margin-left: 0;
+    width: 45px
+  }
+  .style10 {
+    margin-left: 6px;
+    width: 148px
+  }
+  .style11 {
+    background-color: #fff;
+    border-left: 2px solid #000;
+    border-right: 2px solid #000;
+    border-top: 2px solid #000;
+    border-bottom: 2px solid #000;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.1875em;
+    text-indent: 15px;
+    margin-top: 41px;
+    width: 682px;
+    height: 63px;
+    flex-shrink: 0
+  }
+  .newmockup1row0column1row4 {
+    display: flex;
+    margin-top: 39px;
+    width: 682px;
+    height: 174px;
+    align-items: stretch;
+    flex-shrink: 0
+  }
+  .style13 {
+    margin-left: 0;
+    width: 302px
+  }
+  .style14 {
+    margin-left: 69px;
+    width: 311px
+  }
+  .newmockup1row0column1row5 {
+    display: flex;
+    margin-top: 137px;
+    width: 684px;
+    height: 165px;
+    align-items: stretch;
+    flex-shrink: 0
+  }
+  .style17 {
+    margin-left: 0;
+    width: 311px
+  }
+  .style16 {
+    margin-left: 60px;
+    width: 312px
+  }
+  .newmockup1row0column1row6 {
+    display: flex;
+    margin-left: 24px;
+    margin-top: 731px;
+    width: 1094px;
+    height: 154px;
+    align-items: stretch;
+    flex-shrink: 0;
+    justify-content: space-between
+  }
+  .style21 {
+    width: 255px
+  }
+  .style20 {
+    width: 263px
+  }
+  .style18,
+  .style19 {
+    width: 254px
+  }
+  .newmockup1row0unsupported2 {
+    margin-left: 103px;
+    margin-top: 9px;
+    width: 24px;
+    height: 2195px
+  }
+}
